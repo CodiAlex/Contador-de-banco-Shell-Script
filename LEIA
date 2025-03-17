@@ -1,0 +1,28 @@
+Exemplo: 
+
+Banco-words.txt 
+
+---comida
+arroz
+açucar
+canjica
+---negação
+Não
+---afirmação
+Sim
+---
+
+./U-definitivo2
+---comida
+---comida
+Titulo do banco: comida , Dentro do banco: 1 , Numero da linha: 2
+Titulo do banco: comida , Dentro do banco: 2 , Numero da linha: 3
+Titulo do banco: comida , Dentro do banco: 3 , Numero da linha: 4
+---negação
+---negação
+Titulo do banco: negação , Dentro do banco: 1 , Numero da linha: 6
+---afirmação
+---afirmação
+Titulo do banco: afirmação , Dentro do banco: 1 , Numero da linha: 8
+---
+---
